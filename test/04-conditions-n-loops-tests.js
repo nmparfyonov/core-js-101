@@ -161,10 +161,10 @@ describe('04-conditions-n-loops-tasks', () => {
         },
         expected: false,
       }, {
-        rect1: {
+        rect2: {
           top: 0, left: 0, width: 90, height: 90,
         },
-        rect2: {
+        rect1: {
           top: 25, left: 100, width: 10, height: 10,
         },
         expected: false,
